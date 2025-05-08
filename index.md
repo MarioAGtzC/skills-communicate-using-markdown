@@ -3,3 +3,7 @@
 ``` typescript
 const text = 'Hello World';
 ```
+- [x] Add Header
+- [x] Add Image
+- [x] Add Code
+- [ ] Add Task list
